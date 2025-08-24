@@ -1,0 +1,28 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "authenticationType": "jwt",
+    "baseName": "inventoryServiceTestA",
+    "buildTool": "maven",
+    "cacheProvider": "ehcache",
+    "clientFramework": "no",
+    "clientPackageManager": "npm",
+    "creationTimestamp": 1756047916767,
+    "databaseType": "sql",
+    "enableHibernateCache": true,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.11.0",
+    "jwtSecretKey": "bb3d93f2b25b401fb839aeeb7b21c798bd180f0d0aa7a5cba7dc28a6a442c4a1",
+    "languages": ["en"],
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "packageName": "com.example.inventory",
+    "prodDatabaseType": "mysql",
+    "reactive": false,
+    "serviceDiscoveryType": "eureka",
+    "skipClient": true,
+    "skipServer": false,
+    "skipUserManagement": true
+  }
+}
